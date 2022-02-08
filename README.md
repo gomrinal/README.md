@@ -10,7 +10,7 @@
 ⭐ When I'm not at my desk. I prefer hiking in the woods or camping 🏕️ with my friends with a nice bon fire 🔥 
 <br>
 <br>
-⭐ Fun fact: I've hiked 35 km with 250 ml of Gatorade. Lowkey, I feel I should be a paid embassador of Gatorade 🥇 
+⭐ Fun fact: I've hiked 35 km with 250 ml of Gatorade. Lowkey, I feel I should be a paid ambassador of Gatorade 🥇 
 <br>
 <br>
 📧: email.mrinal.here@gmail.com <br>
