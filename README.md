@@ -4,7 +4,7 @@
 ⭐ I adore and value emotional quotient in people and place strong emphasis on mentoring Juniors as I grow within my role.
 <br>
 <br>
-⭐ Lastly, I enjoy taking parts in Hackathon. My this year goal is to attend ML conference and next year's is to present something to ML/Data Science community.<br>
+⭐ Lastly, I enjoy taking parts in Hackathon. My this year goal is to attend ML conference and next year's is to present something to ML/Data Science community.
 <br>
 <br>
 ⭐ When I'm not at my desk. I prefer hiking in the woods or camping 🏕️ with my friends with a nice bon fire 🔥 
