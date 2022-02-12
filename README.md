@@ -17,3 +17,9 @@
 <br>
 <br>
 ![Mrinal's GitHub stats](https://github-readme-stats.vercel.app/api?username=gomrinal&show_icons=true&theme=merko)
+
+Linkedin: https://www.linkedin.com/in/gomrinal
+Medium: https://gomrinal.medium.com/
+Twitter: https://www.twitter.com/gomrinal
+Github: https://www.github.com/gomrinal
+Kaggle: https://www.kaggle.com/gomrinal
