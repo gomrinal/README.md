@@ -17,15 +17,15 @@
 📧: email.mrinal.here@gmail.com <br>
 <br>
 ### Socials:
-📎 Linkedin: https://www.linkedin.com/in/gomrinal
+📎 Linkedin: [@gomrinal](https://www.linkedin.com/in/gomrinal)
 <br>
-📎 Medium: https://gomrinal.medium.com/
+📎 Medium: [@gomrinal](https://gomrinal.medium.com/)
 <br>
-📎 Twitter: https://www.twitter.com/gomrinal
+📎 Twitter: [@gomrinal](https://www.twitter.com/gomrinal)
 <br>
-📎 Github: https://www.github.com/gomrinal
+📎 Github: [@gomrinal](https://www.github.com/gomrinal)
 <br>
-📎 Kaggle: https://www.kaggle.com/gomrinal
+📎 Kaggle: [@gomrinal](https://www.kaggle.com/gomrinal)
 <br>
 <br>
 ![Mrinal's GitHub stats](https://github-readme-stats.vercel.app/api?username=gomrinal&show_icons=true&theme=merko)
