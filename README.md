@@ -1,4 +1,4 @@
-### About Me:
+### ☘️ About Me:
 👋 Hey There, I'm Mrinal and I am product focussed Data Scientist/MLE. I like to solve problems collaboratively in an inclusive and empathic environment.
 <br>
 <br>
@@ -16,7 +16,7 @@
 <br>
 📧: email.mrinal.here@gmail.com <br>
 <br>
-### Socials:
+### ☘️ Socials:
 📎 Linkedin: [@gomrinal](https://www.linkedin.com/in/gomrinal)❗
 <br>
 📎 Medium: [@gomrinal](https://gomrinal.medium.com/)❗
@@ -28,7 +28,8 @@
 📎 Kaggle: [@gomrinal](https://www.kaggle.com/gomrinal)❗
 <br>
 <br>
+### ☘️ Stats 
 ![Mrinal's GitHub stats](https://github-readme-stats.vercel.app/api?username=gomrinal&show_icons=true&theme=merko)
 
-## Snake 🐍 & Tetris ♦️ of my yearly contribution :)
+### ☘️ Snake 🐍 & Tetris ♦️ of my yearly contribution :)
 ![snake gif](https://github.com/gomrinal/Actions/blob/output/github-contribution-grid-snake.svg)
