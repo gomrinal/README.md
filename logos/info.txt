@@ -1,0 +1,1 @@
+This directory contains logos of different social media in SVG format.
