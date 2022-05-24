@@ -17,11 +17,7 @@
 📧: email.mrinal.here@gmail.com <br>
 <br>
 ### ☘️ Socials:
-📎 Linkedin: [@gomrinal](https://www.linkedin.com/in/gomrinal)❗
-<br>
 📎 Medium: [@gomrinal](https://gomrinal.medium.com/)❗
-<br>
-📎 Twitter: [@gomrinal](https://www.twitter.com/gomrinal)❗
 <br>
 📎 Github: [@gomrinal](https://www.github.com/gomrinal)❗
 <br>
