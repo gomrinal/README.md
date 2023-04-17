@@ -1,5 +1,5 @@
 
-<br>
+
 ### ☘️ Socials:
 📎 Medium: [@gomrinal](https://gomrinal.medium.com/)❗
 <br>
